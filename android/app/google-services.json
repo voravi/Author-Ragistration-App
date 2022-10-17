@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "895451575482",
+    "project_id": "author-registration-fm3",
+    "storage_bucket": "author-registration-fm3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895451575482:android:bb494816f8b8c55b59be83",
+        "android_client_info": {
+          "package_name": "com.author_registration.app.author_registration_app_firebase_miner3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895451575482-md21ghge64jbk11mlm39kugh4rcv0nkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.author_registration.app.author_registration_app_firebase_miner3",
+            "certificate_hash": "b101586b9c2dcf41e771ff076a2cd2e09da9ec4b"
+          }
+        },
+        {
+          "client_id": "895451575482-u4636ha5dguvf5vivn8o5t88qb54gk24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnrZ5IgTDrIyomAzk-JR77BxBivWBdxYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895451575482-u4636ha5dguvf5vivn8o5t88qb54gk24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
